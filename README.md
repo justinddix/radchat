@@ -1,5 +1,7 @@
 # radchat
-![dormouse](https://github.com/justinddix/radchat/blob/master/src/images/dormouse2.png)  ## **A cryptographic chat application and command line tools for Windows, Mac, and Linux**
+![dormouse](https://github.com/justinddix/radchat/blob/master/src/images/dormouse2.png) 
+
+## **A Cryptographic Chat Application and Command Line Tools for Windows, Mac, and Linux**
 
 This repository contains the complete Java source code for the client.  The server code is not publically available.
 
