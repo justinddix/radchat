@@ -23,4 +23,4 @@ If you mess up your key files somehow, you can delete them and restart the clien
 
 ![dormouse](https://github.com/justinddix/radchat/blob/master/src/images/demo.png) 
 
-
+If you have any questions, feature requests, or would like a private server, you may contact me at justin.d.dix@startmail.com
