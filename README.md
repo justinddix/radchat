@@ -17,7 +17,7 @@ All messages are digitally signed using the sender's private key.
 
 On the first run of the client, keyset/public.txt and keyset/private.txt are generated.  To chat with someone, exchange public.txt files with them.  Keep private.txt secret.  Place all of your contacts' public.txt files in your contacts/ folder.  You can rename them to anything you want.  Only the files in keyset/ must be named public.txt and private.txt.
 
-To define a local alias for yourself or for a contact, edit the first line of the keyset/public.txt or contacts/ file to change the hash before the first : to the desired alias.  This alias is for your local display and will not be transmitted over the network or affect the display on other cients.
+To define a local alias for yourself or for a contact, edit the first line of the keyset/public.txt or contacts/ file to change the hash before the first : to the desired alias.  This alias is for your local display and will not be transmitted over the network or affect the display on other clients.
 
 If you mess up your key files somehow, you can delete them and restart the client to generate a new set.
 
