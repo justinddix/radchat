@@ -11,7 +11,7 @@ If you would like a private server, you can request one, although there is a hos
 
 In any case, encryption is end-to-end, so the server sees only encrypted data that it cannot decipher.
 
-The application uses 4096-bit RSA encryption for messages, and for file transfer.  File transfer is enabled by drag and drop into the input box.
+The application uses 4096-bit RSA encryption for messages and for file transfer.  File transfer is enabled by drag and drop into the input box.
 
 All messages are digitally signed using the sender's private key.
 
