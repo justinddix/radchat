@@ -21,5 +21,6 @@ To define a local alias for yourself or for a contact, edit the first line of th
 
 If you mess up your key files somehow, you can delete them and restart the client to generate a new set.
 
+![dormouse](https://github.com/justinddix/radchat/blob/master/src/images/demo.png) 
 
 
