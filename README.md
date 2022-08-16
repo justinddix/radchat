@@ -9,7 +9,7 @@ You are free to use the client and distribute it in source or binary form with o
 
 If you would like a private server, you can request one, although there is a hosting fee for that.
 
-In any case, encryption is end-to-end, so the server sees only encrypted data that it cannot decipher.
+In any case, the encryption is end-to-end, so the server sees only encrypted data that it cannot decipher.
 
 The application uses 4096-bit RSA encryption for messages and for file transfer.  File transfer is enabled by drag and drop into the input box.
 
